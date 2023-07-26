@@ -1,0 +1,32 @@
+.resu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 20px;
+}
+.res{
+    height: 100vh;
+    width: auto;
+}
+.hobb{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+.h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.hob{
+    display: flex;
+    justify-content: space-evenly;
+}
+.hobby{
+
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
