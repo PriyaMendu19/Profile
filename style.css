@@ -34,15 +34,14 @@ body{
 }
 .btn{
     background-image: linear-gradient(to bottom, #ea7bc1, #fa4e9b);
-    
     border-radius: 8px;
-    
     color:inherit;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     margin-left: 100px;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 .link{
     text-decoration: none;
